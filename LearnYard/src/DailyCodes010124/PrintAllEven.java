@@ -1,4 +1,4 @@
-package DailyCodes;
+package DailyCodes010124;
 
 public class PrintAllEven {
 
